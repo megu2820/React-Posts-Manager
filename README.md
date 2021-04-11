@@ -6,7 +6,7 @@ INSTRUCTIONS
 
 
 IN ORDER TO SEE HOW THE APP LOOKS AND FUNCTIONS. HERE IS A LINK TO IT'S DEPLOYMENT ON HEROKU
-https://material-ui-table.herokuapp.com/
+https://posts-manager.herokuapp.com/
 
 
 
